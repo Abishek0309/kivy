@@ -1,1 +1,1 @@
-A simple PongGame Application Create Using Kivy
+A simple PongGame Application Created Using Kivy
